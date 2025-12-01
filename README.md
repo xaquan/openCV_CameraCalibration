@@ -160,7 +160,7 @@ python testing_concept.py
 
 ### Run a specific DOE row:
 ```bash
-python runOrder.py --run 5
+python runOrder.py
 ```
 
 ---
